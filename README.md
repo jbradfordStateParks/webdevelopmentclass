@@ -5,9 +5,9 @@ This is the code for a movie trailer website.
 You can download and install [Python here](https://www.python.org/downloads/release/python-2713/)
 
 ### Download these files
-⋅⋅* entertainment_center.py
-⋅⋅* media.py
-⋅⋅* fresh_tomatoes.py
+* entertainment_center.py
+* media.py
+* fresh_tomatoes.py
 save them together in one folder
 
 ### Running the program
